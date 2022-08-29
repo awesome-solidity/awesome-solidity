@@ -1,6 +1,6 @@
 # Awesome Solidity
 
-### Contents
+### TOC
 
 - [Resources](#resources)
   - [Official](#official)
