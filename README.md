@@ -66,7 +66,7 @@
 - [topmonks/solidity_quick_ref](https://topmonks.github.io/solidity_quick_ref/) - Syntax overview.
 - [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
 - [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
-
+- [solidity-by-example.org](https://solidity-by-example.org) - An introduction to Solidity with simple examples
 #### Articles
 
 - [Best Practices for Smart Contract Development (yos.io, Yos Riady, 2019)](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
